@@ -1,0 +1,25 @@
+{
+  "name": "mywebsite-flaviosantos",
+  "version": "1.0.0",
+  "description": "mywebsite-flaviosantos",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaviolsantos/MyWebsite.git"
+  },
+  "author": "Flavio Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flaviolsantos/MyWebsite.git/issues"
+  },
+  "homepage": "https://github.com/Flaviolsantos/MyWebsite.git#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemod": "^3.0.6",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
